@@ -32,6 +32,6 @@ pip install -r requirements.txt
 # filter tests by test module
 # note: feature files cannot be run directly
 1. Click on the terminal icon in pycharm
-2. Navigate to folder elucitest - eg: /Users/xxxxx/Desktop/elucitest
+2. Navigate to folder elucitests - eg: /Users/xxxxx/Desktop/elucitest
 3. type the command in the terminal or command prompt - behave
 ```
